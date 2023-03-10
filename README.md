@@ -2,7 +2,7 @@
 
 ![plot](./output/elbow_output.jpg)
 
-To determine the optimal number of clusters, we have to select the value of k at the “elbow” ie the point after which the distortion/inertia start decreasing in a linear fashion. Thus for the given data, we conclude that the optimal number of clusters for the data is 5.
+To determine the optimal number of clusters, we have to select the value of k at the “elbow” ie the point after which the distortion/inertia start decreasing in a linear fashion. Thus for the given data, we conclude that the optimal number of clusters for the data is 5. Refer to this https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
 
 ![plot](./output/kmeans_clustering_output.jpg)
 
